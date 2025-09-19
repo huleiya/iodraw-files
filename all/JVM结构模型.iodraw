@@ -91,8 +91,8 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="218" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-34" value="JVM Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=23;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="502" y="150" width="110" height="30" as="geometry" />
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-34" value="JVM Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=#990000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="466.65999999999997" y="150" width="198" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-35" value="Loading" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="364.5" y="260" width="60" height="30" as="geometry" />
