@@ -85,7 +85,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-28" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="890" y="810" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-29" value="Interpreter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="920" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
