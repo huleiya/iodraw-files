@@ -79,7 +79,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-24" value="&lt;br&gt;Thread #3 PC&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#feb147;" vertex="1" parent="1">
           <mxGeometry x="670" y="707" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#acfcb3;" vertex="1" parent="1">
           <mxGeometry x="287" y="810" width="343" height="240" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-27" value="Native Method&lt;br&gt;Interface&lt;br&gt;(JNI)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
