@@ -22,7 +22,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-6" value="Bootstrap Class Loader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-7" value="Extension Class Loader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
