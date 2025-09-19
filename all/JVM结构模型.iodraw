@@ -159,6 +159,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-13" target="yPjUr2ojHW4OU2pBHI9b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
