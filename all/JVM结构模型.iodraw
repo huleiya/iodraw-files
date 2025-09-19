@@ -25,7 +25,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-7" value="Extension Class Loader" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="346" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-8" target="yPjUr2ojHW4OU2pBHI9b-13">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-7" target="yPjUr2ojHW4OU2pBHI9b-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-8" value="Application Class Loacer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
