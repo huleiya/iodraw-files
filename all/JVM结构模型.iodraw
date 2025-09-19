@@ -91,7 +91,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-30" value="JIT&lt;br&gt;Compiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="920" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-31" value="Garbage&lt;br&gt;Collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="920" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4" vertex="1" parent="1">
