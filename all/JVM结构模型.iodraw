@@ -97,7 +97,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="492" y="230" width="188" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-34" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-34" value="JVM Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
