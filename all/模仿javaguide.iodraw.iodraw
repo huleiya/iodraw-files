@@ -61,7 +61,7 @@
         <mxCell id="v3GwtWmHTTDK6Sr9eIYg-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="v3GwtWmHTTDK6Sr9eIYg-103">
           <mxGeometry width="660" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3GwtWmHTTDK6Sr9eIYg-105" value="&lt;span style=&quot;background-color: rgb(204, 255, 255);&quot;&gt;index&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Helvetica;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="v3GwtWmHTTDK6Sr9eIYg-104">
+        <mxCell id="v3GwtWmHTTDK6Sr9eIYg-105" value="&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;index&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Helvetica;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="v3GwtWmHTTDK6Sr9eIYg-104">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
