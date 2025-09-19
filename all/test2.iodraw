@@ -11,7 +11,7 @@
           <mxGeometry x="734" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-2" value="Mac" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="934" y="321" width="120" height="60" as="geometry" />
+          <mxGeometry x="924" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXU5ul3Dtdy00SIUgODp-5" target="SXU5ul3Dtdy00SIUgODp-6" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="734" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-21" value="Windows" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="934" y="223" width="120" height="60" as="geometry" />
+          <mxGeometry x="924" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXU5ul3Dtdy00SIUgODp-27" target="SXU5ul3Dtdy00SIUgODp-28" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="734" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-28" value="Linux" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="934" y="422" width="120" height="60" as="geometry" />
+          <mxGeometry x="924" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXU5ul3Dtdy00SIUgODp-29" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXU5ul3Dtdy00SIUgODp-30" target="SXU5ul3Dtdy00SIUgODp-31" parent="1">
           <mxGeometry relative="1" as="geometry" />
