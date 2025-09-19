@@ -109,8 +109,8 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-37" value="Intialization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="700" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-38" value="Loading" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-38" value="Runtime Data Area" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
