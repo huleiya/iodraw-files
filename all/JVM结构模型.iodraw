@@ -82,10 +82,10 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#acfcb3;" vertex="1" parent="1">
           <mxGeometry x="287" y="870" width="343" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-27" value="Native Method&lt;br&gt;Interface&lt;br&gt;(JNI)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-27" value="Native Method&lt;br style=&quot;font-size: 14px;&quot;&gt;Interface&lt;br style=&quot;font-size: 14px;&quot;&gt;(JNI)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="810" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-28" value="Native Method&lt;br&gt;Library" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#ca7b77;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-28" value="Native Method&lt;br style=&quot;font-size: 14px;&quot;&gt;Library" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#ca7b77;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="890" y="810" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=5" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-39" value="Stack" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="525" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-41" value="Execution Engine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-41" value="Execution Engine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="380" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
