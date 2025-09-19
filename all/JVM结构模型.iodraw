@@ -14,7 +14,7 @@
           <mxGeometry x="320" y="290" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#56bbc3;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="338" width="100" height="140" as="geometry" />
+          <mxGeometry x="510" y="290" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#56bbc3;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="140" height="140" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-9" value="Verify" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
           <mxGeometry x="523" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-10" target="yPjUr2ojHW4OU2pBHI9b-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-10" value="Prepare" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
           <mxGeometry x="523" y="347" width="70" height="30" as="geometry" />
