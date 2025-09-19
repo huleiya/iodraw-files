@@ -26,7 +26,7 @@
           <mxGeometry x="327.5" y="350" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-8" value="Application Class Loacer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="400" width="135" height="30" as="geometry" />
+          <mxGeometry x="327.5" y="393" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-9" value="Verify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="300" width="120" height="50" as="geometry" />
