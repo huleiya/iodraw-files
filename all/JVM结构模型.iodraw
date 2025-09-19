@@ -83,10 +83,10 @@
           <mxGeometry x="242" y="830" width="343" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-27" value="Native Method&lt;br style=&quot;font-size: 16px;&quot;&gt;Interface&lt;br style=&quot;font-size: 16px;&quot;&gt;(JNI)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="617" y="825" width="210" height="210" as="geometry" />
+          <mxGeometry x="619" y="825" width="210" height="145" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-28" value="Native Method&lt;br style=&quot;font-size: 16px;&quot;&gt;Library" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#ca7b77;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="890" y="810" width="210" height="240" as="geometry" />
+          <mxGeometry x="890" y="810" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="218" height="30" as="geometry" />
