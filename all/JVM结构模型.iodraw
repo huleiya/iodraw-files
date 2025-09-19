@@ -92,10 +92,10 @@
           <mxGeometry x="300" y="940" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-30" value="JIT&lt;br&gt;Compiler" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#7af295;" vertex="1" parent="1">
-          <mxGeometry x="420" y="910" width="110" height="70" as="geometry" />
+          <mxGeometry x="420" y="940" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-31" value="Garbage&lt;br&gt;Collector" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#7af295;" vertex="1" parent="1">
-          <mxGeometry x="540" y="920" width="110" height="70" as="geometry" />
+          <mxGeometry x="540" y="940" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-32" value="Class Loader Subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="218" height="30" as="geometry" />
