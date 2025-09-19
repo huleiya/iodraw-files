@@ -22,9 +22,6 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-6" value="Bootstrap Class Loader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5ae6f4;" vertex="1" parent="1">
           <mxGeometry x="327" y="298" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-7" target="yPjUr2ojHW4OU2pBHI9b-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-7" value="Extension Class Loader" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#5ae6f4;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="346" width="135" height="30" as="geometry" />
         </mxCell>
@@ -121,13 +118,8 @@
         <mxCell id="yPjUr2ojHW4OU2pBHI9b-41" value="Execution Engine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="398.5" y="830" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yPjUr2ojHW4OU2pBHI9b-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="yPjUr2ojHW4OU2pBHI9b-7" target="yPjUr2ojHW4OU2pBHI9b-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="361" />
-              <mxPoint x="470" y="360" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yPjUr2ojHW4OU2pBHI9b-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="317" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
