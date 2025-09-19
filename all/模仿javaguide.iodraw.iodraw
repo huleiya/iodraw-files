@@ -106,7 +106,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v3GwtWmHTTDK6Sr9eIYg-132" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Helvetica;labelBackgroundColor=#DAE8FC;fontStyle=1" vertex="1" parent="v3GwtWmHTTDK6Sr9eIYg-104">
+        <mxCell id="v3GwtWmHTTDK6Sr9eIYg-132" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Helvetica;labelBackgroundColor=#DAE8FC;fontStyle=1" vertex="1" parent="v3GwtWmHTTDK6Sr9eIYg-104">
           <mxGeometry x="540" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
