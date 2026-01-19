@@ -26,7 +26,10 @@
           <mxGeometry x="21.5" y="251" width="868" height="142" as="geometry" />
         </mxCell>
         <mxCell id="aZcotJ-eaxTnZxHo5mWG-107" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="-1868" y="-149" width="165" height="212" as="geometry" />
+          <mxGeometry x="-1868" y="-149" width="165" height="329" as="geometry" />
+        </mxCell>
+        <mxCell id="aZcotJ-eaxTnZxHo5mWG-108" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1838" y="-116" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
